@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Grapple.io
+tagline: Making meetings productive.
 ---
 {% include JB/setup %}
 
